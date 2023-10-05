@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>448383136914-ihl2ham250ub2kiimbulapdm2539g7aj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.448383136914-ihl2ham250ub2kiimbulapdm2539g7aj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCCrCNFj-Bjxsp0nej6umXdVdjT71aWBXc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>448383136914</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.quizAppFirebase</string>
+	<key>PROJECT_ID</key>
+	<string>mcqs-flutter-ba6fa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mcqs-flutter-ba6fa.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:448383136914:ios:272bfc4126f8e87ac6a24b</string>
+	<key>DATABASE_URL</key>
+	<string>https://mcqs-flutter-ba6fa-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

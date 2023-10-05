@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "448383136914",
+    "project_id": "mcqs-flutter-ba6fa",
+    "storage_bucket": "mcqs-flutter-ba6fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448383136914:android:5133124f7746396cc6a24b",
+        "android_client_info": {
+          "package_name": "com.example.quiz_app_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5dJqGXP_dNi8JIuQE-rYoUkxwXAkTVys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

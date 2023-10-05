@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCCrCNFj-Bjxsp0nej6umXdVdjT71aWBXc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>448383136914</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.quizAppFirebase.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>mcqs-flutter-ba6fa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mcqs-flutter-ba6fa.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:448383136914:ios:d8cd36e4e1035e80c6a24b</string>
+</dict>
+</plist>
